@@ -1,0 +1,9 @@
+# pixiv
+DOMAIN-KEYWORD,pixiv
+DOMAIN-KEYWORD,fanbox
+
+# dlsite
+DOMAIN-KEYWORD,dlsite
+
+# 日本兜底
+DOMAIN-SUFFIX,jp

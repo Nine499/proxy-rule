@@ -1,0 +1,20 @@
+# 谷歌云盘
+DOMAIN,drive.usercontent.google.com
+
+# mage
+DOMAIN-KEYWORD,mega
+
+# 南+常用网盘
+DOMAIN-SUFFIX,gofile.io
+
+# anime1
+DOMAIN-KEYWORD,anime1
+
+# 油管
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+
+# meta和x的图片视频网站
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,twimg.com

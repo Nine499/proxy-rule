@@ -1,0 +1,8 @@
+# 微软网盘
+DOMAIN-KEYWORD,sharepoint
+
+# steam直连
+DOMAIN-SUFFIX,steamserver.net
+
+# 中国兜底
+DOMAIN-SUFFIX,cn

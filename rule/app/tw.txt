@@ -1,0 +1,8 @@
+# 巴哈姆特
+DOMAIN-KEYWORD,bahamut
+
+# kobo走台湾
+DOMAIN-SUFFIX,kobo.com
+
+# 台湾兜底
+DOMAIN-SUFFIX,tw
