@@ -18,3 +18,8 @@ DOMAIN-SUFFIX,googlevideo.com
 # meta和x的图片视频网站
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,twimg.com
+
+# twitch
+DOMAIN-KEYWORD,twitch
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
