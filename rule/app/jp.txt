@@ -5,5 +5,8 @@ DOMAIN-KEYWORD,fanbox
 # dlsite
 DOMAIN-KEYWORD,dlsite
 
+# 批评空间
+DOMAIN,erogamescape.dyndns.org
+
 # 日本兜底
 DOMAIN-SUFFIX,jp
