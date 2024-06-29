@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,twitch
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
+
+# emby服务器
+DOMAIN-SUFFIX,1110111.top
