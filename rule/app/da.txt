@@ -25,6 +25,5 @@ DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
 
 # emby服务器
-DOMAIN-SUFFIX,123456.buzz
-DOMAIN-SUFFIX,1110111.top
+# 飞跃地平线 https://t.me/DpxEmby
 IP-CIDR,104.161.22.114/32
