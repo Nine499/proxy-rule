@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,mega
 
 # 南+常用网盘
 DOMAIN-SUFFIX,gofile.io
+DOMAIN-SUFFIX,workupload.com
 
 # anime1
 DOMAIN-KEYWORD,anime1
